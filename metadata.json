@@ -1,0 +1,17 @@
+{
+  "mushrooms": {
+    "total_items": 1559,
+    "total_files": 32,
+    "chunk_size": 50
+  },
+  "flowers": {
+    "total_items": 584,
+    "total_files": 12,
+    "chunk_size": 50
+  },
+  "others": {
+    "total_items": 573,
+    "total_files": 12,
+    "chunk_size": 50
+  }
+}

@@ -1,7 +1,9 @@
-{
-    "country": "Taiwan",
-    "activity_file": "Taiwan50",
-    "total_coordinates": 50,
-    "achievement_badge": "Taiwan50"
-    "Name": "台灣50徽章"
-}
+[
+    {
+        "country": "Taiwan",
+        "activity_file": "Taiwan50",
+        "total_coordinates": 50,
+        "achievement_badge": "Taiwan50",
+        "Name": "台灣50徽章"
+    }
+]

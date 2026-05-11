@@ -1,0 +1,252 @@
+[
+    {
+        "name": "正濱漁港彩虹屋",
+        "latitude": 25.153174,
+        "longitude": 121.76985
+    },
+    {
+        "name": "和平島公園",
+        "latitude": 25.159336,
+        "longitude": 121.76366
+    },
+    {
+        "name": "台北 101",
+        "latitude": 25.033964,
+        "longitude": 121.564468
+    },
+    {
+        "name": "國立故宮博物院",
+        "latitude": 25.102355,
+        "longitude": 121.548492
+    },
+    {
+        "name": "陽明山國家公園",
+        "latitude": 25.15367,
+        "longitude": 121.536754
+    },
+    {
+        "name": "三峽老街",
+        "latitude": 24.932218,
+        "longitude": 121.368772
+    },
+    {
+        "name": "野柳地質公園",
+        "latitude": 25.206412,
+        "longitude": 121.690483
+    },
+    {
+        "name": "九份老街",
+        "latitude": 25.109852,
+        "longitude": 121.844976
+    },
+    {
+        "name": "大溪老街",
+        "latitude": 24.885072,
+        "longitude": 121.287531
+    },
+    {
+        "name": "桃園 Xpark 水族館",
+        "latitude": 25.014282,
+        "longitude": 121.21557
+    },
+    {
+        "name": "新竹城隍廟",
+        "latitude": 24.804368,
+        "longitude": 120.965551
+    },
+    {
+        "name": "新竹南寮漁港",
+        "latitude": 24.849215,
+        "longitude": 120.927233
+    },
+    {
+        "name": "六福村主題樂園",
+        "latitude": 24.82731,
+        "longitude": 121.18249
+    },
+    {
+        "name": "司馬庫斯部落",
+        "latitude": 24.57912,
+        "longitude": 121.33534
+    },
+    {
+        "name": "龍騰斷橋",
+        "latitude": 24.358245,
+        "longitude": 120.77395
+    },
+    {
+        "name": "南庄老街",
+        "latitude": 24.598634,
+        "longitude": 120.99965
+    },
+    {
+        "name": "高美濕地",
+        "latitude": 24.311756,
+        "longitude": 120.55013
+    },
+    {
+        "name": "台中國家歌劇院",
+        "latitude": 24.16287,
+        "longitude": 120.64062
+    },
+    {
+        "name": "逢甲夜市",
+        "latitude": 24.17885,
+        "longitude": 120.64574
+    },
+    {
+        "name": "八卦山大佛",
+        "latitude": 24.078235,
+        "longitude": 120.54848
+    },
+    {
+        "name": "鹿港老街",
+        "latitude": 24.055845,
+        "longitude": 120.43285
+    },
+    {
+        "name": "日月潭",
+        "latitude": 23.86335,
+        "longitude": 120.91218
+    },
+    {
+        "name": "清境農場",
+        "latitude": 24.058356,
+        "longitude": 121.15654
+    },
+    {
+        "name": "合歡山武嶺",
+        "latitude": 24.13735,
+        "longitude": 121.27586
+    },
+    {
+        "name": "北港朝天宮",
+        "latitude": 23.568285,
+        "longitude": 120.30154
+    },
+    {
+        "name": "劍湖山世界",
+        "latitude": 23.61864,
+        "longitude": 120.57853
+    },
+    {
+        "name": "檜意森活村",
+        "latitude": 23.48665,
+        "longitude": 120.45326
+    },
+    {
+        "name": "蘭潭風景區",
+        "latitude": 23.473522,
+        "longitude": 120.485641
+    },
+    {
+        "name": "阿里山森林遊樂區",
+        "latitude": 23.50854,
+        "longitude": 120.80628
+    },
+    {
+        "name": "故宮南院",
+        "latitude": 23.47278,
+        "longitude": 120.29235
+    },
+    {
+        "name": "安平古堡",
+        "latitude": 23.001655,
+        "longitude": 120.16068
+    },
+    {
+        "name": "奇美博物館",
+        "latitude": 22.93456,
+        "longitude": 120.22617
+    },
+    {
+        "name": "花園夜市",
+        "latitude": 23.01135,
+        "longitude": 120.19968
+    },
+    {
+        "name": "駁二藝術特區",
+        "latitude": 22.62007,
+        "longitude": 120.28189
+    },
+    {
+        "name": "蓮池潭",
+        "latitude": 22.68065,
+        "longitude": 120.29544
+    },
+    {
+        "name": "佛光山佛陀紀念館",
+        "latitude": 22.75628,
+        "longitude": 120.44685
+    },
+    {
+        "name": "墾丁國家公園",
+        "latitude": 21.90226,
+        "longitude": 120.85271
+    },
+    {
+        "name": "大鵬灣國家風景區",
+        "latitude": 22.45385,
+        "longitude": 120.47256
+    },
+    {
+        "name": "小琉球",
+        "latitude": 22.35338,
+        "longitude": 120.37946
+    },
+    {
+        "name": "礁溪溫泉",
+        "latitude": 24.82865,
+        "longitude": 121.77258
+    },
+    {
+        "name": "蘭陽博物館",
+        "latitude": 24.86875,
+        "longitude": 121.83296
+    },
+    {
+        "name": "冬山河親水公園",
+        "latitude": 24.673822,
+        "longitude": 121.815341
+    },
+    {
+        "name": "太魯閣國家公園",
+        "latitude": 24.15578,
+        "longitude": 121.62194
+    },
+    {
+        "name": "七星潭",
+        "latitude": 24.03265,
+        "longitude": 121.63188
+    },
+    {
+        "name": "三仙台",
+        "latitude": 23.12356,
+        "longitude": 121.40879
+    },
+    {
+        "name": "伯朗大道",
+        "latitude": 23.10048,
+        "longitude": 121.21955
+    },
+    {
+        "name": "澎湖跨海大橋",
+        "latitude": 23.64936,
+        "longitude": 119.54638
+    },
+    {
+        "name": "七美雙心石滬",
+        "latitude": 23.22018,
+        "longitude": 119.44465
+    },
+    {
+        "name": "翟山坑道",
+        "latitude": 24.39345,
+        "longitude": 118.31838
+    },
+    {
+        "name": "南竿北海坑道",
+        "latitude": 26.14256,
+        "longitude": 119.92768
+    }
+]

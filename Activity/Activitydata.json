@@ -6,4 +6,11 @@
         "achievement_badge": "Taiwan50",
         "Name": "台灣50徽章"
     }
+    {
+        "country": "Kansai",
+        "activity_file": "Kansai50",
+        "total_coordinates": 50,
+        "achievement_badge": "Kansai50",
+        "Name": "關西50徽章"
+    }
 ]
